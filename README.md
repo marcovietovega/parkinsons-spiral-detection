@@ -2,6 +2,14 @@
 
 This project uses machine learning techniques to identify Parkinson's Disease in patients by analyzing their hand-drawn spiral patterns. It uses two different approaches to study the drawings and can identify patients with high accuracy.
 
+## Why This Matters
+
+Early detection of Parkinson's Disease can dramatically improve patients' quality of life. Traditional diagnosis often relies on visible symptoms that appear years after the disease has already progressed significantly. By the time tremors become obvious, many brain cells have already been lost.
+
+This project offers hope for earlier, more accessible screening. A simple spiral drawing test could be administered in any doctor's office or even at home using a tablet. The beauty lies in its simplicity: no expensive equipment, no invasive procedures, just a pen and paper.
+
+This technology could be especially valuable in underserved communities where specialized neurologists aren't readily available. The project demonstrates how artificial intelligence can transform a basic human task into a powerful diagnostic tool, making advanced medical screening accessible to everyone.
+
 ### Key Features of This Project
 
 - **Two Different Approaches**: Studies both the tremor patterns and the visual appearance of spiral drawings.
